@@ -1,2 +1,2 @@
-# pythom
+# python
 DSHS python class
